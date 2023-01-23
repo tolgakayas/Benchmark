@@ -12,7 +12,7 @@ before_install:
 addons:
   coverity_scan:
     project:
-      name: "OWASP/Benchmark"
+      name: "OWASP/Benchmarkl"
       description: "OWASP Benchmark"
     notification_email: dave.wichers@owasp.org
     build_command_prepend: ""
